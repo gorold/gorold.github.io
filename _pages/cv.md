@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. (ISTD), Singapore University of Technology and Design, 2020
+* B.B.M., Singapore Management University, 2020 (SUTD-SMU Dual Degree Programme)
+* Ph.D in Computer Science, Singapore Management University, 2024 (expected)
+
+Awards
+======
+* 
+
+Hackathons
+======
+* 
 
 Work experience
 ======

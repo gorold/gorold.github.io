@@ -12,4 +12,5 @@ I'm a second year CS PhD candidate at Salesforce Research Asia and Singapore Man
 
 news
 ======
-* 16 Aug 2020 - First day of PhD at SFRA and SMU!
+* 
+* 17 Aug 2020 - First day of PhD at SFRA and SMU!
