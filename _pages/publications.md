@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+**CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting** 
+**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi
+The Tenth International Conference on Learning Representations (Poster)
+[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [Code]()
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
