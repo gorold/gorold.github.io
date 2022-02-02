@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gerald Woo"
 title_separator          : "-"
 name                     : &name "Gerald Woo"
-description              : &description "CS PhD candidate at Salesforce Research Asia and Singapore Management University"
+description              : &description "Just a guy"
 url                      : https://gorold.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gorold/gorold.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gerald Woo"
   avatar           : "profile.png"
-  bio              : "CS PhD candidate at Salesforce Research Asia and Singapore Management University"
+  bio              : "CS PhD candidate at Singapore Management University & IPP Trainee at Salesforce Research Asia"
   location         : "Singapore"
   employer         :
   pubmed           : 

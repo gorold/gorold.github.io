@@ -11,11 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-**CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting** 
-**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi
-The Tenth International Conference on Learning Representations (Poster)
-[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [Code]()
+{{ author.googlescholar }}
 
-{% for post in site.publications reversed %}
+<h2>2022</h2>
+**CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting** <br>
+**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
+The Tenth International Conference on Learning Representations (Poster) <br>
+[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2)
+
+<h2>2021</h2>
+**Merlion: A machine learning library for time series** <br>
+Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
+[arXiv'21](https://arxiv.org/abs/2109.09265) | [Code](https://github.com/salesforce/Merlion)
+
+<h2>2019</h2>
+**Model agnostic defence against backdoor attacks in machine learning** <br>
+Sakshi Udeshi, Shanshan Peng, **Gerald Woo**, Lionell Loh, Louth Rawshan, Sudipta Chattopadhyay <br> 
+[arXiv'19](https://arxiv.org/abs/1908.02203)
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
