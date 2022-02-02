@@ -11,15 +11,15 @@ redirect_from:
 
 <h2>Education</h2>
 
+* **Ph.D in Computer Science** <br>
+  School of Computing and Information Systems, Singapore Management University <br>
+  2020 - 2024 (expected)
 * **Bachelor of Engineering** <br>
   Information Systems Technology and Design, Singapore University of Technology and Design <br>
   2016 - 2020 (SUTD-SMU Dual Degree Programme)
 * **Bachelor of Business Management** <br>
   Lee Kong Chian School of Business, Singapore Management University <br>
   2016 - 2020 (SUTD-SMU Dual Degree Programme)
-* **Ph.D in Computer Science** <br>
-  School of Computing and Information Systems, Singapore Management University <br>
-  2020 - 2024 (expected)
 
 <h2>Work experience</h2>
 
