@@ -22,7 +22,7 @@ author_profile: true
 ***CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Tenth International Conference on Learning Representations (ICLR), 2022 <br>
-[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [arXiv](https://arxiv.org/abs/2202.01575)
+[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [arXiv](https://arxiv.org/abs/2202.01575) | [Code](https://github.com/salesforce/CoST)
 
 <h2>2021</h2>
 ***Merlion: A machine learning library for time series*** <br>
