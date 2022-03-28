@@ -33,6 +33,7 @@ redirect_from:
   Fraud Detection Intern, Data Analytics Team
 
 <h2>Academic Service</h2>
+
 * Reviewer for ICML 2022
 * External Reviewer for KDD 2022
 
