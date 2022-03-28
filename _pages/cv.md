@@ -32,6 +32,10 @@ redirect_from:
 * **Defence Science and Technology Agency** (May 2018 - Sep 2018) <br>
   Fraud Detection Intern, Data Analytics Team
 
+<h2>Academic Service</h2>
+* Reviewer for ICML 2022
+* External Reviewer for KDD 2022
+
 <h2>Awards & Honours</h2>
 
 * Salesforce Industrial PhD Programme (2020 - 2024)
