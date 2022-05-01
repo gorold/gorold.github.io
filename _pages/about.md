@@ -21,4 +21,4 @@ news
 * 21 Jan 2022 - My first, first author paper on Contrastive Learning for Time-series Forecasting has been accepted to ICLR 2022!
 * 17 Aug 2020 - First day of PhD journey at SFRA and SMU!
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5gyrxf3qakh&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5hqat092b5i&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
