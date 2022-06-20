@@ -34,6 +34,7 @@ redirect_from:
 
 <h2>Academic Service</h2>
 
+* Reviewer for NeurIPS 2022
 * Reviewer for ICML 2022
 * External Reviewer for KDD 2022
 
