@@ -17,7 +17,7 @@ author_profile: true
 ***CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Tenth International Conference on Learning Representations (ICLR), 2022 <br>
-[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [arXiv](https://arxiv.org/abs/2202.01575) | [Code](https://github.com/salesforce/CoST)
+[ICLR'22](https://openreview.net/forum?id=PilZY3omXV2) | [arXiv](https://arxiv.org/abs/2202.01575) | [Code](https://github.com/salesforce/CoST) | [Slides](http://gorold.github.io/files/ICLR_2022_CoST.pdf)
 
 ***Model agnostic defence against backdoor attacks in machine learning*** <br>
 Sakshi Udeshi, Shanshan Peng, **Gerald Woo**, Lionell Loh, Louth Rawshan, Sudipta Chattopadhyay <br> 
