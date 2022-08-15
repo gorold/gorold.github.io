@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second year CS PhD candidate at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I am also very fortunate to be supported by the Salesforce Industrial PhD Programme (administered by Singapore's Economic Development Board). At Salesforce Research Asia, I am supervised by Chenghao Liu (Senior Applied Scientist), and Prof. Steven Hoi.
+I'm currently a third year CS PhD candidate at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I am also very fortunate to be supported by the Salesforce Industrial PhD Programme (administered by Singapore's Economic Development Board). At Salesforce Research Asia, I am supervised by Chenghao Liu (Senior Applied Scientist), and Prof. Steven Hoi.
 
 My current research interest lies in time-series modelling with neural networks, where I've worked on incorporating suitable inductive biases for time-series data such as trend and seasonality into the deep learning setting (self-supervised learning framework, model architecture, etc.).
 
