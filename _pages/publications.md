@@ -31,7 +31,7 @@ IEEE Transactions on Reliability, 2022 <br>
 
 ***ETSformer: Exponential Smoothing Transformers for Time-series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
-[arXiv](https://arxiv.org/abs/2202.01381) | [Code](https://github.com/salesforce/ETSformer)
+[arXiv](https://arxiv.org/abs/2202.01381) | [Code](https://github.com/salesforce/ETSformer) | [Blog](https://blog.salesforceairesearch.com/etsformer-time-series-forecasting/)
 
 ***Merlion: A machine learning library for time series*** <br>
 Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
