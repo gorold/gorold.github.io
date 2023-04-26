@@ -14,7 +14,7 @@ author_profile: true
 {{ author.googlescholar }}
 
 <h2>2022</h2>
-***DeepTIMe: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting*** <br>
+***Learning Deep Time-index Models for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Fortieth International Conference on Machine Learning (ICML), 2023 <br>
 [arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/)
