@@ -14,6 +14,11 @@ author_profile: true
 {{ author.googlescholar }}
 
 <h2>2022</h2>
+***DeepTIMe: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting*** <br>
+**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
+The Fortieth International Conference on Machine Learning (ICML), 2023 <br>
+[arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/)
+
 ***CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Tenth International Conference on Learning Representations (ICLR), 2022 <br>
@@ -25,10 +30,6 @@ IEEE Transactions on Reliability, 2022 <br>
 [IEEE](https://ieeexplore.ieee.org/abstract/document/9754562) | [arXiv](https://arxiv.org/abs/1908.02203) | [Code](https://github.com/sakshiudeshi/Neo)
 
 <h2>Preprints</h2>
-***DeepTIMe: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting*** <br>
-**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
-[arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe)
-
 ***ETSformer: Exponential Smoothing Transformers for Time-series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 [arXiv](https://arxiv.org/abs/2202.01381) | [Code](https://github.com/salesforce/ETSformer) | [Blog](https://blog.salesforceairesearch.com/etsformer-time-series-forecasting/)

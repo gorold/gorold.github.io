@@ -18,6 +18,7 @@ Outside of research, I enjoy reading, learning more about math/tech, eating good
 
 news
 ======
+* 25 Apr 2023 - 1 paper (DeepTime) accepted to ICML 2023!
 * 11 Aug 2022 - I was awarded the SMU Presidential Doctoral Fellowship!
 * 21 Jan 2022 - My first, first author paper on Contrastive Learning for Time-series Forecasting has been accepted to ICLR 2022!
 * 17 Aug 2020 - First day of PhD journey at SFRA and SMU!
