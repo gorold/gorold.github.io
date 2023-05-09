@@ -18,7 +18,7 @@ Outside of research, I enjoy reading, learning more about math/tech, eating good
 
 news
 ======
-* 25 Apr 2023 - Paper titled __Learning Deep Time-index Models for Time Series Forecasting (DeepTime)__ accepted at ICML 2023!
+* 25 Apr 2023 - Paper titled _Learning Deep Time-index Models for Time Series Forecasting (DeepTime)_ accepted at __ICML 2023__!
 * 11 Aug 2022 - I was awarded the SMU Presidential Doctoral Fellowship!
-* 21 Jan 2022 - My first, first author paper: __Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting (CoST)__ has been accepted to ICLR 2022!
+* 21 Jan 2022 - My first, first author paper: _Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting (CoST)_ has been accepted to __ICLR 2022__!
 * 17 Aug 2020 - First day of PhD journey at SFRA and SMU!
