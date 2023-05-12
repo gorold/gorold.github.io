@@ -20,5 +20,6 @@ news
 ======
 * 25 Apr 2023 - Paper titled _Learning Deep Time-index Models for Time Series Forecasting (DeepTime)_ accepted at __ICML 2023__!
 * 11 Aug 2022 - I was awarded the SMU Presidential Doctoral Fellowship!
+* Jul 2022 - Recognised as an "Outstanding Reviewer (Top 10%)" for ICML 2022!
 * 21 Jan 2022 - My first, first author paper: _Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting (CoST)_ has been accepted to __ICLR 2022__!
 * 17 Aug 2020 - First day of PhD journey at SFRA and SMU!
