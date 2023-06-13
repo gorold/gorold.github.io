@@ -41,7 +41,7 @@ redirect_from:
 <h2>Awards & Honours</h2>
 
 * SMU Presidential Doctoral Fellowship (2022)
-* Salesforce Industrial PhD Programme (2020 - 2024)
+* Salesforce Industrial Postgraduate Programme (2020 - 2024)
 * Keppel Award of Exellence (Top 2 students in ISTD), SUTD (2020)
 * SUTD Honours List, Sophomore, Junior, & Senior Terms (2018 - 2020)
 * EPS Computer Systems Computational Data Science Award (Top student in 50.038 Computational Data Science), SUTD (2019)
