@@ -34,12 +34,13 @@ redirect_from:
 
 <h2>Academic Service</h2>
 
-* Reviewer for NeurIPS 2022
-* Reviewer for ICML 2022
+* Reviewer for NeurIPS 2022 - 2023
+* Reviewer for ICML 2022 - 2023
 * External Reviewer for KDD 2022
 
 <h2>Awards & Honours</h2>
 
+* ICML - Outstanding Reviewer (2022)
 * SMU Presidential Doctoral Fellowship (2022)
 * Salesforce Industrial Postgraduate Programme (2020 - 2024)
 * Keppel Award of Exellence (Top 2 students in ISTD), SUTD (2020)
