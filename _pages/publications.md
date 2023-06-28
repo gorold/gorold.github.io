@@ -13,11 +13,13 @@ author_profile: true
 
 {{ author.googlescholar }}
 
-<h2>2022</h2>
+<h2>2023</h2>
 ***Learning Deep Time-index Models for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Fortieth International Conference on Machine Learning (ICML), 2023 <br>
-[arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/)
+[arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [Slides](http://gorold.github.io/files/DeepTime_ICML.pdf)
+
+<h2>2022</h2>
 
 ***CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
@@ -37,6 +39,10 @@ IEEE Transactions on Reliability, 2022 <br>
 ***Merlion: A machine learning library for time series*** <br>
 Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
 [arXiv](https://arxiv.org/abs/2109.09265) | [Code](https://github.com/salesforce/Merlion)
+
+***AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges*** <br>
+Qian Cheng, Doyen Sahoo, Amrita Saha, Wenzhuo Yang, Chenghao Liu, **Gerald Woo**, Manpreet Singh, Silvio Saverese, Steven Hoi <br>
+[arXiv](https://arxiv.org/abs/2304.04661)
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
