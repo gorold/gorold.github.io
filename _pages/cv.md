@@ -40,8 +40,9 @@ redirect_from:
 
 <h2>Awards & Honours</h2>
 
+* SMU SCIS Dean's List (2023)
 * ICML - Outstanding Reviewer (2022)
-* SMU Presidential Doctoral Fellowship (2022)
+* SMU Presidential Doctoral Fellowship (2022 - 2023)
 * Salesforce Industrial Postgraduate Programme (2020 - 2024)
 * Keppel Award of Exellence (Top 2 students in ISTD), SUTD (2020)
 * SUTD Honours List, Sophomore, Junior, & Senior Terms (2018 - 2020)

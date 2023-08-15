@@ -19,6 +19,11 @@ author_profile: true
 The Fortieth International Conference on Machine Learning (ICML), 2023 <br>
 [arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [Slides](http://gorold.github.io/files/DeepTime_ICML.pdf)
 
+***Merlion: A machine learning library for time series*** <br>
+Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
+The Journal of Machine Learning Research (JMLR), Volume 24
+[JMLR](https://www.jmlr.org/papers/v24/22-0809.html) | [arXiv](https://arxiv.org/abs/2109.09265) | [Code](https://github.com/salesforce/Merlion)
+
 <h2>2022</h2>
 
 ***CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting*** <br>
@@ -35,10 +40,6 @@ IEEE Transactions on Reliability, 2022 <br>
 ***ETSformer: Exponential Smoothing Transformers for Time-series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 [arXiv](https://arxiv.org/abs/2202.01381) | [Code](https://github.com/salesforce/ETSformer) | [Blog](https://blog.salesforceairesearch.com/etsformer-time-series-forecasting/)
-
-***Merlion: A machine learning library for time series*** <br>
-Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
-[arXiv](https://arxiv.org/abs/2109.09265) | [Code](https://github.com/salesforce/Merlion)
 
 ***AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges*** <br>
 Qian Cheng, Doyen Sahoo, Amrita Saha, Wenzhuo Yang, Chenghao Liu, **Gerald Woo**, Manpreet Singh, Silvio Saverese, Steven Hoi <br>

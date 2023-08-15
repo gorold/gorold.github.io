@@ -18,6 +18,7 @@ Outside of research, I enjoy reading, learning more about math/tech, eating good
 
 news
 ======
+* Aug 2023 - Awarded the SMU Presidential Doctoral Fellowship and Dean's List for 2023!
 * 25 Apr 2023 - Paper titled _Learning Deep Time-index Models for Time Series Forecasting (DeepTime)_ accepted at __ICML 2023__!
 * 11 Aug 2022 - I was awarded the SMU Presidential Doctoral Fellowship!
 * Jul 2022 - Recognised as an "Outstanding Reviewer" (Top 10% of reviewers) for ICML 2022!
