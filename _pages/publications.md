@@ -17,11 +17,11 @@ author_profile: true
 ***Learning Deep Time-index Models for Time Series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 The Fortieth International Conference on Machine Learning (ICML), 2023 <br>
-[ICML](https://proceedings.mlr.press/v202/woo23b.html) | [arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [Slides](http://gorold.github.io/files/DeepTime_ICML.pdf)
+[ICML'23](https://proceedings.mlr.press/v202/woo23b.html) | [arXiv](https://arxiv.org/abs/2207.06046) | [Code](https://github.com/salesforce/DeepTIMe) | [Blog](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [Slides](http://gorold.github.io/files/DeepTime_ICML.pdf)
 
 ***Merlion: A machine learning library for time series*** <br>
 Aadyot Bhatnagar, Paul Kassianik, Chenghao Liu, Tian Lan, Wenzhuo Yang, Rowan Cassius, Doyen Sahoo, Devansh Arpit, Sri Subramanian, **Gerald Woo**, Amrita Saha, Arun Kumar Jagota, Gokulakrishnan Gopalakrishnan, Manpreet Singh, KC Krithika, Sukumar Maddineni, Daeki Cho, Bo Zong, Yingbo Zhou, Caiming Xiong, Silvio Savarese, Steven Hoi, Huan Wang <br>
-The Journal of Machine Learning Research (JMLR), Volume 24
+The Journal of Machine Learning Research (JMLR), Volume 24 <br>
 [JMLR](https://www.jmlr.org/papers/v24/22-0809.html) | [arXiv](https://arxiv.org/abs/2109.09265) | [Code](https://github.com/salesforce/Merlion)
 
 <h2>2022</h2>
