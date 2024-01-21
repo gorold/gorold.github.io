@@ -34,6 +34,7 @@ redirect_from:
 
 <h2>Academic Service</h2>
 
+* Reviewer for ICLR 2024
 * Reviewer for NeurIPS 2022 - 2023
 * Reviewer for ICML 2022 - 2023
 * External Reviewer for KDD 2022
@@ -41,6 +42,7 @@ redirect_from:
 <h2>Awards & Honours</h2>
 
 * SMU SCIS Dean's List (2023)
+* NeurIPS - Top Reviewer (2023)
 * ICML - Outstanding Reviewer (2022)
 * SMU Presidential Doctoral Fellowship (2022 - 2023)
 * Salesforce Industrial Postgraduate Programme (2020 - 2024)

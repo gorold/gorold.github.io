@@ -37,6 +37,10 @@ IEEE Transactions on Reliability, 2022 <br>
 [IEEE](https://ieeexplore.ieee.org/abstract/document/9754562) | [arXiv](https://arxiv.org/abs/1908.02203) | [Code](https://github.com/sakshiudeshi/Neo)
 
 <h2>Preprints</h2>
+***Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain*** <br>
+**Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar <br>
+[arXiv](https://arxiv.org/abs/2310.05063) | [Code](https://github.com/SalesforceAIResearch/pretrain-time-series-cloudops)
+
 ***ETSformer: Exponential Smoothing Transformers for Time-series Forecasting*** <br>
 **Gerald Woo**, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi <br>
 [arXiv](https://arxiv.org/abs/2202.01381) | [Code](https://github.com/salesforce/ETSformer) | [Blog](https://blog.salesforceairesearch.com/etsformer-time-series-forecasting/)
