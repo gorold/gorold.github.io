@@ -34,9 +34,10 @@ redirect_from:
 
 <h2>Academic Service</h2>
 
+* Reviewer for TMLR
 * Reviewer for ICLR 2024
-* Reviewer for NeurIPS 2022 - 2023
-* Reviewer for ICML 2022 - 2023
+* Reviewer for NeurIPS 2022 - 2024
+* Reviewer for ICML 2022 - 2024
 * External Reviewer for KDD 2022
 
 <h2>Awards & Honours</h2>

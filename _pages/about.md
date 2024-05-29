@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth year CS PhD candidate at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I am also very fortunate to be supported by the Salesforce Industrial Postgraduate Programme (administered by Singapore's Economic Development Board). At Salesforce Research Asia, I am supervised by Chenghao Liu (Senior Applied Scientist), and Prof. Steven Hoi.
+__I'm currently on the job market, feel free to reach out to discuss any opportunities!__
+
+I'm currently a fourth year CS PhD candidate at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I am also very fortunate to be supported by the Salesforce Industrial Postgraduate Programme (administered by Singapore's Economic Development Board). At Salesforce AI Research Singapore, I am supervised by Chenghao Liu (Lead Applied Scientist).
 
 My current research interest lies in time series modelling with neural networks, where I've worked on incorporating suitable inductive biases for time-series data such as trend and seasonality into the deep learning setting (self-supervised learning framework, model architecture, etc.).
 
@@ -18,6 +20,7 @@ Outside of research, I enjoy reading, learning more about math/tech, eating good
 
 news
 ======
+* May 2024 - Paper titled _Unified Training of Universal Time Series Forecasting Transformers_ accepted at __ICML 2024__!
 * Aug 2023 - Awarded the SMU Presidential Doctoral Fellowship and Dean's List for 2023!
 * 25 Apr 2023 - Paper titled _Learning Deep Time-index Models for Time Series Forecasting (DeepTime)_ accepted at __ICML 2023__!
 * 11 Aug 2022 - I was awarded the SMU Presidential Doctoral Fellowship!
