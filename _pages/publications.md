@@ -16,7 +16,7 @@ author_profile: true
 <h2>2024</h2>
 ***Unified Training of Universal Time Series Forecasting Transformers*** <br>
 **Gerald Woo**, Chenghao Liu, Akshat Kumar, Caiming Xiong, Silvio Savarese, Doyen Sahoo<br>
-The Forty-first International Conference on Machine Learning (ICML), 2024 <br>
+The Forty-first International Conference on Machine Learning (ICML), 2024, **Oral** <br>
 [arXiv](https://arxiv.org/abs/2402.02592) | [Code](https://github.com/SalesforceAIResearch/uni2ts) | [Blog](https://blog.salesforceairesearch.com/moirai/)
 
 <h2>2023</h2>
