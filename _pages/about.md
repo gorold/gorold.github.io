@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I've just started a new job as a Research Scientist at Meta!
 
-__I'm currently on the job market, feel free to reach out to discuss any opportunities!__
+I completed my PhD in Computer Science at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I was also very fortunate to be supported by the Salesforce Industrial Postgraduate Programme (administered by Singapore's Economic Development Board). At Salesforce AI Research Singapore, I was supervised by Chenghao Liu (Lead Applied Scientist).
 
-I'm currently a fourth year CS PhD candidate at Singapore Management University, advised by Assoc. Prof. Akshat Kumar. I am also very fortunate to be supported by the Salesforce Industrial Postgraduate Programme (administered by Singapore's Economic Development Board). At Salesforce AI Research Singapore, I am supervised by Chenghao Liu (Lead Applied Scientist).
-
-My current research interest lies in time series modelling with neural networks, where I've worked on incorporating suitable inductive biases for time-series data such as trend and seasonality into the deep learning setting (self-supervised learning framework, model architecture, etc.).
+<!-- My current research interest lies in time series modelling with neural networks, where I've worked on incorporating suitable inductive biases for time-series data such as trend and seasonality into the deep learning setting (self-supervised learning framework, model architecture, etc.). -->
 
 I did my undergraduate studies in Singapore University of Technology and Design, and Singapore Management University under the SUTD-SMU Dual Degree Programme in Technology and Management.
 
